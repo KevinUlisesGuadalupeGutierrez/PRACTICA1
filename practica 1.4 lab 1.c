@@ -1,0 +1,2 @@
+float myFloat;
+Gato Pelusa;
